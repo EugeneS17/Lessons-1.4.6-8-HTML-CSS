@@ -1,1 +1,5 @@
-# Html-lessons-1,4,6-8
+# lesson-1 (Introduction to HTML)
+# lesson-4 (Connection)
+# lesson-6 (Standards)
+# lesson-7 (Work with CSS)
+# lesson-8 (Changing fonts and colors)
